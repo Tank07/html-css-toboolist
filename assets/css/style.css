@@ -15,7 +15,7 @@
 
 .small-container{
     background-color: white;
-    width:750px;
+    width:800px;
     height:50px;
     margin-top: 20px;
     margin-left: auto;
@@ -25,12 +25,13 @@
 
  .big-container{
     background-color: white;
-    width:750px;
-    height:550px;
+    width: 800px;
+    height: 500px;
     margin-top: 2px;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
     border-radius: 5px;
   }
 
@@ -66,6 +67,9 @@ ul {
 
 h3{
     display: inline-block;
+}
+
+.m-20{
     margin-top: 25px;
 }
 
