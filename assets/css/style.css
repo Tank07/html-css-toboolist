@@ -45,14 +45,19 @@ ul {
 
 h3{
     display: inline-block;
+    margin-top: 25px;
 }
 
-/* .check::before{
+li{
+    margin-top: 15px;
+}
+
+/* .checkk::before{
    content: "\2713";
    border-color: green;
 } */
 
-.checkk{
+.check{
     color: green;
     border: 2px solid;
     border-color: green;
@@ -60,9 +65,73 @@ h3{
     padding: 0px 3px 0px 3px;
 }
 
+.cross{
+    color: red;
+    border: 2px solid;
+    border-color: red;
+    border-radius: 50%;
+    padding: 0px 3px 0px 3px;
+}
+
 .blue{
+    font-size: 11px;
     color: white;
     background-color: blue;
-    border-radius: 5px;
+    border-radius: 10px;
     margin-left: 10px;
+    padding: 6px;
+}
+
+.purple{
+    font-size: 11px;
+    color: white;
+    background-color: purple;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 6px;
+}
+
+.green{
+    font-size: 11px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 6px;
+}
+
+.orange{
+    font-size: 11px;
+    color: white;
+    background-color: orangered;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 6px;
+}
+
+.yellow{
+    font-size: 11px;
+    color: white;
+    background-color: yellow;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 6px;
+}
+
+.blallo{
+    font-size: 11px;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 6px;
+}
+
+.pink{
+    font-size: 11px;
+    color: white;
+    background-color: pink;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 6px;
 }
