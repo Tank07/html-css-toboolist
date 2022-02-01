@@ -6,16 +6,37 @@
 
 .container-img{
     background-image: url(..//images/Logo.png);
-    height: 90px;
+    height: 50px;
     background-repeat: no-repeat;
     margin-left: 10px;
     padding-left: 50px;
     padding-top: 5px;
   }
 
-  main{
-      margin: 20px;
+.small-container{
+    background-color: white;
+    width:750px;
+    height:50px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    }
+
+ .big-container{
+    background-color: white;
+    width:750px;
+    height:550px;
+    margin-top: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 5px;
   }
+
+main{
+    background-color: grey;
+}
 
 .button1{
     color: white;
