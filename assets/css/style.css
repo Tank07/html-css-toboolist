@@ -32,3 +32,12 @@ hr{
     color: grey;
     margin-top: 15px;
 }
+
+h3{
+    display: inline-block;
+}
+
+/* .check::before{
+   content: "\2713";
+   border-color: green;
+} */
