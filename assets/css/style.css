@@ -3,3 +3,32 @@
     margin: 0;
     box-sizing: border-box;
   }
+
+.container-img{
+    background-image: url(..//images/Logo.png);
+    height: 90px;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    padding-left: 50px;
+    padding-top: 5px;
+  }
+
+.button1{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button2{
+    color: grey;
+    border: 1px solid;
+    border-color: grey;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+hr{
+    color: grey;
+    margin-top: 15px;
+}
